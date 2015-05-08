@@ -1,7 +1,7 @@
 {
     "name": "yellow/php-sdk",
     "type": "library",
-    "description": "Yellow Bitcoin Payment SDK ",
+    "description": "Yellow Bitcoin Payment SDK",
     "keywords": [
         "bitcoin",
         "http",
